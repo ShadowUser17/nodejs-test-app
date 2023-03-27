@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "nodejs-test-app",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "devDependencies": {
+    "eslint": "^8.36.0"
+  }
+}
